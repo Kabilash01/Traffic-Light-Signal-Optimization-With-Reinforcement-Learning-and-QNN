@@ -1,5 +1,6 @@
 
-# 🚦 Traffic Light Optimization with Reinforcement Learning
+# 🚦 Traffic Light Optimization with Reinforcement Learning -and -QNN
+
 
 This project provides a reinforcement learning-based framework for optimizing traffic flow at complex urban intersections. A Deep Q-Learning agent is trained to intelligently control traffic signal phases in order to minimize congestion and waiting times, ultimately improving traffic efficiency.
 
