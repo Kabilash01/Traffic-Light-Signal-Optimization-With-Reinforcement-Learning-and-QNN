@@ -122,13 +122,8 @@ Visualizations for reward trends, queue lengths, and waiting times are generated
 
 ---
 
-##contact
+contact
 KABILASH S -kabilash0108@gmail.com
 ## 📜 License
 
 This project is licensed under the MIT License.
-```
-
----
-
-Let me know if you want this saved as a file or embedded in your GitHub repository structure.
